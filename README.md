@@ -55,7 +55,7 @@ Before using this skill, ensure you have:
 
 ```bash
 # Clone into your skills directory
-git clone https://github.com/YOUR_USERNAME/ddev-php-skill.git ~/.claude/skills/ddev-php
+git clone https://github.com/lab909/ddev-php-skill.git ~/.claude/skills/ddev-php
 
 # Or copy the folder manually
 cp -r ddev-php ~/.claude/skills/ddev-php
@@ -64,13 +64,13 @@ cp -r ddev-php ~/.claude/skills/ddev-php
 ### Cursor
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ddev-php-skill.git .cursor/skills/ddev-php
+git clone https://github.com/lab909/ddev-php-skill.git .cursor/skills/ddev-php
 ```
 
 ### Windsurf
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ddev-php-skill.git .windsurf/skills/ddev-php
+git clone https://github.com/lab909/ddev-php-skill.git .windsurf/skills/ddev-php
 ```
 
 ### From the `.skill` file
